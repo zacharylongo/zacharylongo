@@ -29,7 +29,7 @@
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
-<br>
+
 
 - **Operating Systems**:
 
@@ -39,7 +39,7 @@
   ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
   
-<br>
+
 
 - **Cloud and Dev-Ops Tools**:
 
@@ -50,7 +50,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   
 
-<br>
+
 
 - **Extras**:
 
@@ -60,12 +60,8 @@
 
 </p>
 
-<br>
-<br>
 
------
 
-<br>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -79,14 +75,7 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
 
------
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
