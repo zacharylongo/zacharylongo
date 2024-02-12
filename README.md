@@ -9,8 +9,8 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-
-- 🏭 Currently researching ICS security (Industrial Control Systems) 
+- 🧪 Current Research: ICS security (Industrial Control Systems)
+- ⚙️ Current Project: [AUTO-OSINT (Capstone) Project](https://github.com/zacharylongo/CCC-410)
 - ⛔ Emhphasis on Bottom-Up, Zero Trust, and 100% Automated Architecture
 - 🐬 I LOVE my [Flipper-Zero](https://flipperzero.one/)
 - 👷 Personal Website: (Coming Soon)
