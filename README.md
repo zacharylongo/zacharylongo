@@ -13,7 +13,7 @@
 - Currently researching ICS security (Industrial Control Systems)
 - Performing OSINT in my spare time
 - Personal Website: (Coming Soon)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1762HYxtvIfHswU2V4IaaS54KnxcxEtd4/view?usp=drive_link)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
