@@ -13,7 +13,7 @@
 - ⚙️ Current Project: [FireWatch-Automated OSINT tool (Capstone) ](https://github.com/zacharylongo/CCC-410)
 - ⛔ Emhphasis on making techincal concepts digestable to normal people.
 - 🐬 Ask me about my [Flipper-Zero](https://flipperzero.one/)
-- 🎓 I’m currently looking for a Post-Grad job opportunity, this is [my resume!](https://drive.google.com/file/d/1762HYxtvIfHswU2V4IaaS54KnxcxEtd4/view?usp=drive_link)
+- 🎓 I’m always open to new oppurtunities, this is [my resume!](https://drive.google.com/file/d/1762HYxtvIfHswU2V4IaaS54KnxcxEtd4/view?usp=drive_link)
 - 👷 Personal Website: (Coming Soon)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
